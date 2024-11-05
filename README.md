@@ -31,12 +31,6 @@
   <img src="https://skillicons.dev/icons?i=postgres" height="40" alt="postgresql logo"  />
 </div>
 
-###
-
-<img src="https://raw.githubusercontent.com/LeonardoCarneir0/LeonardoCarneir0/output/snake.svg" alt="Snake animation" />
-
-###
-
 <h2 align="left">Redes Sociais</h2>
 
 ###
